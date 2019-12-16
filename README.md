@@ -10,7 +10,7 @@ for Data Scince class at Udacity university.
 Python script reads data from .csv files for 
 either Washington, New York city or Chicago.
  Using interactive interface a user can choose 
-the city and define some other parametrs to 
+the city and define some other parameters to 
 extract statistical information from the data.
 
 ### Files used

@@ -14,7 +14,7 @@ the city and define some other parameters to
 extract statistical information from the data.
 
 ### Files used
-bikeshare.py ,csv files for the 3 cities,readme.md
+bikeshare.py ,csv files for the 3 cities,readme.md,.gitignore
 
 ### Credits
 Python documentation

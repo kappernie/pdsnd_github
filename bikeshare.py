@@ -11,7 +11,7 @@ import numpy as np
 
 def get_filters():
     """
-    gest specific city, month, and day from the user to begin  analysis.
+    gets specific city, month, and day from the user to begin  analysis.
 
     Returns:
         (str) city - name of the city to analyze

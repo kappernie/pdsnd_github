@@ -1,5 +1,5 @@
 """This script was written by Appau Ernest K.M 
-purpose:To enable one interactively perform analysis and draw insight 
+purpose:To enable one interactively perform data analysis and draw insight 
 from the rideshare data found in chicago,new york and washington csv data files.
 got some help from  sources: Medium.com,google.com ,stackoverflow,towardsdatacience and other python blogs 
 """
@@ -76,7 +76,7 @@ def load_data(city, month, day):
 
 
 def time_stats(df):
-    """ stats on the most frequent times of travel."""
+    """ stats on the most frequent times of travel the three cities."""
 
     print('\ncomputing the Most Frequent Times of Travel...\n')
     start_time = time.time()

@@ -2,7 +2,7 @@
 16/12/2019
 
 ### Project Title
-Bikeshare Data Analysis (udacity assingment)
+Bikeshare Data Analysis (udacity assignment)
 
 ### Description
 Bikeshare project was developed for Programming 
